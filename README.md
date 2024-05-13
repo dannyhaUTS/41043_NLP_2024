@@ -1,1 +1,1 @@
-NLP_AT3.ipynb does not work as intented. If the group creates a successful model, it will be added.
+NLP_AT3_v2.ipynb is the model implementation that produced emperimental results, hence the v2.
